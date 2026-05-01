@@ -15,6 +15,14 @@ header {
     text-align: justify;
 }
 
+#home ul li {
+    margin-bottom: 4px;
+}
+
+#home ul li:last-child {
+    margin-bottom: 0;
+}
+
 .profile-details {
     text-align: center;
     margin-top: 90px;
